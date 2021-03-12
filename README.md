@@ -32,6 +32,13 @@ https://raspad.readthedocs.io/en/latest/faq/RasPad3-FAQ.html#q-the-direction-of-
 https://drive.google.com/file/d/1F-IQNld5OrlUfjvVT57f741fmzZzySto/view?usp=sharing
 
 
+
+# Review
+
+* MagPi : https://magpi.raspberrypi.org/articles/review-raspad-3?mc_cid=cbafa99eea&mc_eid=ea57cb1dcb
+* Tom's Hardware : https://www.tomshardware.com/reviews/raspad-3
+
+
 # Touchscreen
 
 Are the two HDMI cables connected between the Raspberry Pi and the raspad3 motherboard in raspad3 connected? Is there an external screen?
