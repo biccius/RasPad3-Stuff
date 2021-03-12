@@ -1,6 +1,13 @@
 # RasPad3
 
 
+# SD Image
+* Flasher Image utility: www.balena.io/etcher
+* Raspad3: https://raspad.com/pages/download
+
+# User Manual
+https://sunfounder.s3.us-east-1.amazonaws.com/Raspberry/RasPad-OS-User-Manual-20200824.pdf
+
 
 # Accelerometer
 
