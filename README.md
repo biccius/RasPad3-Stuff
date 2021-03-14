@@ -1,6 +1,6 @@
 # RasPad3
 
-This repository is intended to collect resources, links and tips to configure your Raspad3 or correct detected problems.
+This repository is intended to collect resources, links and tips to configure your Raspad3 or correct problems.
 
 # SD Image
 * Flasher Image utility: www.balena.io/etcher
