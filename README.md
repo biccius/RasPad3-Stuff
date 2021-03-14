@@ -73,8 +73,6 @@ Thank you in advance.
 
 # File Manager
 * Midnight Commander 
-sudo apt-get update
-sudo apt-get install mc
 
 
 # YouTube Video
