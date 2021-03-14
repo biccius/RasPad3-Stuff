@@ -4,6 +4,8 @@
 # SD Image
 * Flasher Image utility: www.balena.io/etcher
 * Raspad3: https://raspad.com/pages/download
+* RaspOS 32bit: https://www.raspberrypi.org/software/operating-systems/
+* RaspOS 64bit: https://downloads.raspberrypi.org/raspios_arm64/images/
 
 # User Manual
 https://sunfounder.s3.us-east-1.amazonaws.com/Raspberry/RasPad-OS-User-Manual-20200824.pdf
