@@ -31,7 +31,7 @@ Then execute install.py installation program (reference picture: https://drive.g
 According to the prompt of auto-rotator.md in the docs directory, you can turn on the rotating screen, turn off the rotating screen, or calibrate (refer to the picture: https://drive.google.com/file/d/1SiiyXDni3_NqCELY2GfISy-Uy5VRN8eE/view?usp=sharing).
 
 
-[b]Calibration procedure[/b]
+Calibration procedure
 
 https://raspad.readthedocs.io/en/latest/faq/RasPad3-FAQ.html#q-the-direction-of-the-display-does-not-change-with-the-direction-of-the-screen
 
