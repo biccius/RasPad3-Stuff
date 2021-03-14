@@ -1,5 +1,6 @@
 # RasPad3
 
+This repository is intended to collect resources, links and tips to configure your Raspad3 or correct detected problems.
 
 # SD Image
 * Flasher Image utility: www.balena.io/etcher
@@ -65,7 +66,10 @@ If the touch function does not work after checking step by step, please take a v
 Thank you in advance.
 
 
+# Virtual Keyboard
 
+* florence  https://howtoraspberrypi.com/raspberry-pi-virtual-keyboard/
+* matchbox https://thepihut.com/blogs/raspberry-pi-tutorials/matchbox-keyboard-raspberry-pi-touchscreen-keyboard
 
 # Video
 
