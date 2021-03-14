@@ -25,12 +25,12 @@ git clone https://github.com/sunfounder/python-sh3001.git
 
 Then execute install.py installation program (reference picture: https://drive.google.com/file/d/1fc_519QyE2CeSjWHWDQKm9gzaF8dlgOW/view?usp=sharing).
 
-According to the prompt of auto-rotator.md in the docs directory, you can turn on the rotating screen, turn off the rotating screen, or calibrate (refer to the picture: https://drive.google.com/file/d/1SiiyXDni3_NqCELY2GfISy-Uy5VRN8eE/view?usp =sharing).
+According to the prompt of auto-rotator.md in the docs directory, you can turn on the rotating screen, turn off the rotating screen, or calibrate (refer to the picture: https://drive.google.com/file/d/1SiiyXDni3_NqCELY2GfISy-Uy5VRN8eE/view?usp=sharing).
 
 
 Calibration procedure:
 
-https://raspad.readthedocs.io/en/latest/faq/RasPad3-FAQ.html#q-the-direction-of-the-display-does-not-change-with-the-direction-of-the- screen
+https://raspad.readthedocs.io/en/latest/faq/RasPad3-FAQ.html#q-the-direction-of-the-display-does-not-change-with-the-direction-of-the-screen
 
 
 
