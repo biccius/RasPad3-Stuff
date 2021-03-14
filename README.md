@@ -71,6 +71,12 @@ Thank you in advance.
 * florence  https://howtoraspberrypi.com/raspberry-pi-virtual-keyboard/
 * matchbox https://thepihut.com/blogs/raspberry-pi-tutorials/matchbox-keyboard-raspberry-pi-touchscreen-keyboard
 
+# File Manager
+* Midnight Commander 
+sudo apt-get update
+sudo apt-get install mc
+
+
 # YouTube Video
 
 * ETA PRIME : https://www.youtube.com/watch?v=XPYfpia8OgE&t=13s 
