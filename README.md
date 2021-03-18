@@ -69,15 +69,20 @@ Thank you in advance.
 # Virtual Keyboard
 
 * florence  https://howtoraspberrypi.com/raspberry-pi-virtual-keyboard/
+`sudo apt install florence -y`
+`sudo apt install at-spi2-core -y`
+
 * matchbox https://thepihut.com/blogs/raspberry-pi-tutorials/matchbox-keyboard-raspberry-pi-touchscreen-keyboard
+`sudo apt install matchbox-keyboard -y`
 
 # File Manager
 * Midnight Commander 
-
+`sudo apt install mc -y`
 
 # YouTube Video
 
 * ETA PRIME : https://www.youtube.com/watch?v=XPYfpia8OgE&t=13s 
+
 
 # Sloeber (best Arduino IDE of ever)
 `sudo apt update`
