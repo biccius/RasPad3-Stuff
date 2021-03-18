@@ -79,12 +79,16 @@ Thank you in advance.
 
 * ETA PRIME : https://www.youtube.com/watch?v=XPYfpia8OgE&t=13s 
 
-# Sloeber
+# Sloeber (best Arduino IDE of ever)
+
 
 sudo apt update
+
 sudo apt install maven
+
 git clone https://github.com/Sloeber/arduino-eclipse-plugin sloeber
+
 cd sloeber
+
 mvn clean verify -DskipTests=true
 
--
