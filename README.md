@@ -81,8 +81,7 @@ Thank you in advance.
 
 # Sloeber (best Arduino IDE of ever)
 
-`
-sudo apt update
+`sudo apt update
 
 sudo apt install maven
 
@@ -90,5 +89,4 @@ git clone https://github.com/Sloeber/arduino-eclipse-plugin sloeber
 
 cd sloeber
 
-mvn clean verify -DskipTests=true
-`
+mvn clean verify -DskipTests=true`
