@@ -14,13 +14,12 @@ https://sunfounder.s3.us-east-1.amazonaws.com/Raspberry/RasPad-OS-User-Manual-20
 
 # Accelerometer
 
+```
 cd ~
-
 git clone https://github.com/sunfounder/python-sh3001
-
 cd python-sh3001
-
 sudo python3 install.py  
+```
 
 For how to use, you can refer to the auto-rotator.md file under the docs file in the python-sh3001 root directory (https://drive.google.com/file/d/1OoguOYlNk4iNunHv9ijh99rVqVEtWL_-/view?usp=sharing)
 
@@ -69,15 +68,16 @@ Thank you in advance.
 # Virtual Keyboard
 
 * florence  https://howtoraspberrypi.com/raspberry-pi-virtual-keyboard/
-`sudo apt install florence -y`
-`sudo apt install at-spi2-core -y`
+```sudo apt install florence -y
+sudo apt install at-spi2-core -y
+```
 
 * matchbox https://thepihut.com/blogs/raspberry-pi-tutorials/matchbox-keyboard-raspberry-pi-touchscreen-keyboard
-`sudo apt install matchbox-keyboard -y`
+```sudo apt install matchbox-keyboard -y```
 
 # File Manager
 * Midnight Commander 
-`sudo apt install mc -y`
+```sudo apt install mc -y```
 
 # YouTube Video
 
@@ -85,12 +85,9 @@ Thank you in advance.
 
 
 # Sloeber (best Arduino IDE of ever)
-`sudo apt update`
-
-`sudo apt install maven`
-
-`git clone https://github.com/Sloeber/arduino-eclipse-plugin sloeber`
-
-`cd sloeber`
-
-`mvn clean verify -DskipTests=true`
+```sudo apt update
+sudo apt install maven
+git clone https://github.com/Sloeber/arduino-eclipse-plugin sloeber
+cd sloeber
+mvn clean verify -DskipTests=true
+```
