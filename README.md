@@ -13,7 +13,7 @@ This repository is intended to collect resources, links and tips to configure yo
 * RaspOS 64bit: https://downloads.raspberrypi.org/raspios_arm64/images/
 
 # User Manual
-https://sunfounder.s3.us-east-1.amazonaws.com/Raspberry/RasPad-OS-User-Manual-20200824.pdf
+* Raspad3 : https://sunfounder.s3.us-east-1.amazonaws.com/Raspberry/RasPad-OS-User-Manual-20200824.pdf
 
 
 # Accelerometer
