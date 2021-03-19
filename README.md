@@ -72,15 +72,19 @@ https://drive.google.com/file/d/1MMgZr508gCfPhtgimkBdnFgPQ1OWSHDO/view?usp=shari
 # Virtual Keyboard
 
 * florence  https://howtoraspberrypi.com/raspberry-pi-virtual-keyboard/
+
 ```sudo apt install florence -y
 sudo apt install at-spi2-core -y
 ```
 
 * matchbox https://thepihut.com/blogs/raspberry-pi-tutorials/matchbox-keyboard-raspberry-pi-touchscreen-keyboard
+
 ```sudo apt install matchbox-keyboard -y```
 
 # File Manager
+
 * Midnight Commander 
+
 ```sudo apt install mc -y```
 
 # YouTube Video
