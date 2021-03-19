@@ -1,6 +1,10 @@
 # RasPad3
 
-This repository is intended to collect resources, links and tips to configure your Raspad3 or correct problems.
+This repository is intended to collect resources, links and tips to configure your Raspad3 of Sunfounder.
+
+*https://raspad.com
+*https://www.sunfounder.com/products/raspberrypi-tablet-raspad
+
 
 # SD Image
 * Flasher Image utility: www.balena.io/etcher
