@@ -73,7 +73,8 @@ https://drive.google.com/file/d/1MMgZr508gCfPhtgimkBdnFgPQ1OWSHDO/view?usp=shari
 
 * florence  https://howtoraspberrypi.com/raspberry-pi-virtual-keyboard/
 
-```sudo apt install florence -y
+```
+sudo apt install florence -y
 sudo apt install at-spi2-core -y
 ```
 
