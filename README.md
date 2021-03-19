@@ -8,7 +8,7 @@ This repository is intended to collect resources, links and tips to configure yo
 
 # SD Image
 * Flasher Image utility: www.balena.io/etcher
-* Raspad3: https://raspad.com/pages/download
+* Raspad3 OS: https://raspad.com/pages/download
 * RaspOS 32bit: https://www.raspberrypi.org/software/operating-systems/
 * RaspOS 64bit: https://downloads.raspberrypi.org/raspios_arm64/images/
 
