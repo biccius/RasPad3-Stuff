@@ -60,13 +60,13 @@ If an additional external screen is connected the touch function cannot be used 
 
 It is judged whether the external screen is connected with the voltage of HDMI. The voltage is the initial value when the two HDMI interfaces of the Raspberry Pi are connected to the radpad3 motherboard. Using the external HDMI interface on the raspad3 motherboard, or not connecting the HDMI cable between the Raspberry Pi HDMI1 interface and raspad3, will cause the voltage to deviate from the initial value, and the motherboard will make a judgment and turn off the touch.
 
+If you do not have an external screen and both HDMI cables are connected, it may be that the HDMI cable of the HDMI 1 port is faulty, that is, the shorter one. You can try to exchange these two hdmi lines to see if it can start successfully. Test as shown below.
+
 If a longer HDMI cable is broken, it will also cause the voltage of the judgment state to deviate, thereby turning off the touch. You can exchange two hdmi cables for testing, refer to the attached video.
 
 https://drive.google.com/file/d/1MMgZr508gCfPhtgimkBdnFgPQ1OWSHDO/view?usp=sharing
 
-If the touch function does not work after checking step by step, please take a video about your checking process and effect so that the technician can better solve the problem. Please send the results to support@sunfounder.com, mark your backer number and problem description.
 
-Thank you in advance.
 
 
 # Virtual Keyboard
