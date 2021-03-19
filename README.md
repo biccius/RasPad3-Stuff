@@ -2,8 +2,8 @@
 
 This repository is intended to collect resources, links and tips to configure your Raspad3 of Sunfounder.
 
-*https://raspad.com
-*https://www.sunfounder.com/products/raspberrypi-tablet-raspad
+* https://raspad.com
+* https://www.sunfounder.com/products/raspberrypi-tablet-raspad
 
 
 # SD Image
