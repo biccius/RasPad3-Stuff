@@ -38,7 +38,7 @@ https://raspad.readthedocs.io/en/latest/faq/RasPad3-FAQ.html#q-the-direction-of-
 
 # Fan speed
 
-https://drive.google.com/file/d/1F-IQNld5OrlUfjvVT57f741fmzZzySto/view?usp=sharing
+(https://github.com/biccius/RasPad3-Stuff/blob/main/fan%20speed%20S_F.png)
 
 
 
