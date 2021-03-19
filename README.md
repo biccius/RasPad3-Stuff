@@ -38,8 +38,8 @@ https://raspad.readthedocs.io/en/latest/faq/RasPad3-FAQ.html#q-the-direction-of-
 
 # Fan speed
 
-(https://github.com/biccius/RasPad3-Stuff/blob/main/fan%20speed%20S_F.png)
 
+![Fan speed S/F](https://github.com/biccius/RasPad3-Stuff/blob/main/fan%20speed%20S_F.png)
 
 
 # Review
