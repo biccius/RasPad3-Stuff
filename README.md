@@ -20,18 +20,16 @@ This repository is intended to collect resources, links and tips to configure yo
 
 ```
 cd ~
-git clone https://github.com/sunfounder/python-sh3001
+git clone https://github.com/sunfounder/python-sh3001.git
 cd python-sh3001
 sudo python3 install.py  
 ```
 
-For how to use, you can refer to the auto-rotator.md file under the docs file in the python-sh3001 root directory (https://drive.google.com/file/d/1OoguOYlNk4iNunHv9ijh99rVqVEtWL_-/view?usp=sharing)
-
-git clone https://github.com/sunfounder/python-sh3001.git
-
 Then execute install.py installation program (reference picture: https://drive.google.com/file/d/1fc_519QyE2CeSjWHWDQKm9gzaF8dlgOW/view?usp=sharing).
 
 According to the prompt of auto-rotator.md in the docs directory, you can turn on the rotating screen, turn off the rotating screen, or calibrate (refer to the picture: https://drive.google.com/file/d/1SiiyXDni3_NqCELY2GfISy-Uy5VRN8eE/view?usp=sharing).
+
+For how to use, you can refer to the auto-rotator.md file under the docs file in the python-sh3001 root directory (https://drive.google.com/file/d/1OoguOYlNk4iNunHv9ijh99rVqVEtWL_-/view?usp=sharing)
 
 
 ### Calibration procedure
