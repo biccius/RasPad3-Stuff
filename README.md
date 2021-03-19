@@ -54,9 +54,9 @@ https://raspad.readthedocs.io/en/latest/faq/RasPad3-FAQ.html#q-the-direction-of-
 
 # Touchscreen
 
-Are the two HDMI cables connected between the Raspberry Pi and the raspad3 motherboard in raspad3 connected? Is there an external screen?
+There are two HDMI cables connected between the Raspberry Pi and the raspad motherboard in raspad3
 
-Because the touch function cannot be used normally after the raspad is connected to the screen, we directly cancel the touch function when the screen is connected to the screen.
+If an additional external screen is connected the touch function cannot be used normally and it will cancel the touch function when the screen is connected to the screen.
 
 It is judged whether the external screen is connected with the voltage of HDMI. The voltage is the initial value when the two HDMI interfaces of the Raspberry Pi are connected to the radpad3 motherboard. Using the external HDMI interface on the raspad3 motherboard, or not connecting the HDMI cable between the Raspberry Pi HDMI1 interface and raspad3, will cause the voltage to deviate from the initial value, and the motherboard will make a judgment and turn off the touch.
 
